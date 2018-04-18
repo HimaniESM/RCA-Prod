@@ -1,24 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_hub_flow">
-    <sys_hub_flow action="INSERT_OR_UPDATE">
+<record_update table="sys_hub_flow_snapshot">
+    <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
         <active>true</active>
         <description>ESM_RCA_TemplateValidation</description>
         <label_cache>[{"name":"Created_1.current.parent.sys_id","label":"Trigger➛RCA Template Table Record➛Parent➛Sys ID","reference":"","reference_display":"Sys ID","type":"GUID","base_type":"GUID","parent_table_name":"task","column_name":"sys_id"},{"name":"cc824199-fde7-49c5-9999-971fa5c8ddff.Record","label":"1➛Problem Record","reference":"problem","reference_display":"Problem","type":"reference","base_type":"reference"},{"name":"Created_1.current.parent","label":"Trigger➛RCA Template Table Record➛Parent","reference":"task","reference_display":"Parent","type":"reference","base_type":"reference","parent_table_name":"x_infte_rca_templa_rca_template_table","column_name":"parent"}]</label_cache>
-        <latest_snapshot display_value="ESM_RCA_TemplateValidation">bdd686ed4fe5574053c240f18110c757</latest_snapshot>
         <name>ESM_RCA_TemplateValidation</name>
-        <show_draft_actions>false</show_draft_actions>
+        <parent_flow display_value="ESM_RCA_TemplateValidation">056754726f011b00d69dc8c17c3ee4fb</parent_flow>
         <status>published</status>
-        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_class_name>sys_hub_flow_snapshot</sys_class_name>
         <sys_created_by>Suganya_Nagarajan</sys_created_by>
-        <sys_created_on>2018-03-28 06:13:16</sys_created_on>
-        <sys_id>056754726f011b00d69dc8c17c3ee4fb</sys_id>
-        <sys_mod_count>13</sys_mod_count>
+        <sys_created_on>2018-04-18 13:39:11</sys_created_on>
+        <sys_id>bdd686ed4fe5574053c240f18110c757</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>ESM_RCA_TemplateValidation</sys_name>
         <sys_package display_value="RCA Template" source="x_infte_rca_templa">443b91ff6f349300d69dc8c17c3ee407</sys_package>
         <sys_policy/>
         <sys_scope display_value="RCA Template">443b91ff6f349300d69dc8c17c3ee407</sys_scope>
-        <sys_update_name>sys_hub_flow_056754726f011b00d69dc8c17c3ee4fb</sys_update_name>
+        <sys_update_name>sys_hub_flow_snapshot_bdd686ed4fe5574053c240f18110c757</sys_update_name>
         <sys_updated_by>Suganya_Nagarajan</sys_updated_by>
-        <sys_updated_on>2018-04-18 13:39:12</sys_updated_on>
-    </sys_hub_flow>
+        <sys_updated_on>2018-04-18 13:39:11</sys_updated_on>
+    </sys_hub_flow_snapshot>
 </record_update>
