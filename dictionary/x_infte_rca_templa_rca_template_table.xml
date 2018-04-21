@@ -11,6 +11,7 @@
         <element label="Groups Involved" max_length="4000" name="groups_involved" reference="sys_user_group" type="glide_list"/>
         <element label="Identified Root Cause" max_length="100" name="identified_root_cause" type="string"/>
         <element label="Impacted Components" max_length="100" name="impacted_components" type="string"/>
+        <element dynamic_default_value="2019-04-19 22:38:37" label="Intermediate Restoration Steps" max_length="100" name="intermediate_restoration_steps" type="string"/>
         <element label="Outage Hours" max_length="100" name="outage_hours" type="string"/>
         <element label="Problem Statement" max_length="100" name="problem_statement" type="string"/>
         <element label="RCA Completion Date" max_length="40" name="rca_completion_date" type="glide_date"/>
