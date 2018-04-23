@@ -17,7 +17,7 @@
         <sys_updated_by>Suganya_Nagarajan</sys_updated_by>
         <sys_updated_on>2018-03-26 06:51:58</sys_updated_on>
         <table>x_infte_rca_templa_rca_template_table</table>
-        <ui_policy display_value="Make fields ReadOnly">e5b16ebf4f38930053c240f18110c7da</ui_policy>
+        <ui_policy display_value="Make fields ReadOnly (Esm)">e5b16ebf4f38930053c240f18110c7da</ui_policy>
         <visible>ignore</visible>
     </sys_ui_policy_action>
 </record_update>

@@ -4,7 +4,7 @@
         <action_name>esm_rca_inProgress</action_name>
         <active>true</active>
         <client>true</client>
-        <comments/>
+        <comments>To update the state value of RCA record to InProgress. This ui action appears when state is New.</comments>
         <condition>current.state_rca == 1</condition>
         <form_action>true</form_action>
         <form_button>true</form_button>
@@ -24,17 +24,18 @@
         <onclick>MovetoProgress()</onclick>
         <order>100</order>
         <script><![CDATA[function MovetoProgress(){
+	//To update the State value of RCA record to In Progress
 	g_form.setValue('stage','Draft');
 	g_form.setValue('state_rca',2);
 	gsftSubmit(null, g_form.getFormElement(), "esm_rca_inProgress");
-
+	
 }
 if (typeof window == 'undefined')
-   updateAndRedirect();
+	updateAndRedirect();
 
 function updateAndRedirect() {
-    current.update();
-    action.setRedirectURL(current);
+	current.update();
+	action.setRedirectURL(current);
 }]]></script>
         <show_insert>true</show_insert>
         <show_multiple_update>false</show_multiple_update>
@@ -46,7 +47,7 @@ function updateAndRedirect() {
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>2c3b0a824f0d970053c240f18110c77e</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Move to InProgress</sys_name>
         <sys_overrides/>
         <sys_package display_value="RCA Template" source="x_infte_rca_templa">443b91ff6f349300d69dc8c17c3ee407</sys_package>
@@ -54,7 +55,7 @@ function updateAndRedirect() {
         <sys_scope display_value="RCA Template">443b91ff6f349300d69dc8c17c3ee407</sys_scope>
         <sys_update_name>sys_ui_action_2c3b0a824f0d970053c240f18110c77e</sys_update_name>
         <sys_updated_by>Suganya_Nagarajan</sys_updated_by>
-        <sys_updated_on>2018-03-26 06:46:40</sys_updated_on>
+        <sys_updated_on>2018-04-23 11:24:39</sys_updated_on>
         <table>x_infte_rca_templa_rca_template_table</table>
         <ui11_compatible>true</ui11_compatible>
         <ui16_compatible>false</ui16_compatible>

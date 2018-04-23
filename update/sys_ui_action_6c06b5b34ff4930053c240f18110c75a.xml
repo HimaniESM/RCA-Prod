@@ -4,7 +4,7 @@
         <action_name>esm_req_for_approval</action_name>
         <active>true</active>
         <client>true</client>
-        <comments/>
+        <comments>To update the state value to Awaiting Approval and this ui action appears when state is In Progress</comments>
         <condition>current.state_rca == 2</condition>
         <form_action>true</form_action>
         <form_button>true</form_button>
@@ -24,17 +24,19 @@
         <onclick>changeState()</onclick>
         <order>100</order>
         <script><![CDATA[function changeState(){
+	
+	//To update the state value to Awaiting Approval
 	g_form.setValue('stage','Requested');
 	g_form.setValue('state_rca',3);
 	gsftSubmit(null, g_form.getFormElement(), "esm_req_for_approval");
-
+	
 }
 if (typeof window == 'undefined')
-   updateAndRedirect();
+	updateAndRedirect();
 
 function updateAndRedirect() {
-    current.update();
-    action.setRedirectURL(current);
+	current.update();
+	action.setRedirectURL(current);
 }]]></script>
         <show_insert>false</show_insert>
         <show_multiple_update>false</show_multiple_update>
@@ -46,7 +48,7 @@ function updateAndRedirect() {
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>6c06b5b34ff4930053c240f18110c75a</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Request for approval</sys_name>
         <sys_overrides/>
         <sys_package display_value="RCA Template" source="x_infte_rca_templa">443b91ff6f349300d69dc8c17c3ee407</sys_package>
@@ -54,7 +56,7 @@ function updateAndRedirect() {
         <sys_scope display_value="RCA Template">443b91ff6f349300d69dc8c17c3ee407</sys_scope>
         <sys_update_name>sys_ui_action_6c06b5b34ff4930053c240f18110c75a</sys_update_name>
         <sys_updated_by>Suganya_Nagarajan</sys_updated_by>
-        <sys_updated_on>2018-03-19 06:13:23</sys_updated_on>
+        <sys_updated_on>2018-04-23 11:25:54</sys_updated_on>
         <table>x_infte_rca_templa_rca_template_table</table>
         <ui11_compatible>true</ui11_compatible>
         <ui16_compatible>false</ui16_compatible>
