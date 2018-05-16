@@ -34,12 +34,12 @@
         <sys_created_by>Suganya_Nagarajan</sys_created_by>
         <sys_created_on>2018-04-18 13:47:36</sys_created_on>
         <sys_id>8dc8ca214f29574053c240f18110c748</sys_id>
-        <sys_mod_count>8</sys_mod_count>
-        <sys_updated_by>Suganya_Nagarajan</sys_updated_by>
-        <sys_updated_on>2018-04-18 13:49:49</sys_updated_on>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_updated_by>Amit Kumar</sys_updated_by>
+        <sys_updated_on>2018-04-30 06:47:25</sys_updated_on>
         <table>x_infte_rca_templa_rca_template_table</table>
         <timezone/>
-        <validated>false</validated>
+        <validated>true</validated>
         <workflow display_value="ESM_RCA_TemplateWF">cbd13dff4fb4930053c240f18110c7e5</workflow>
     </wf_workflow_version>
     <wf_workflow action="INSERT_OR_UPDATE">
