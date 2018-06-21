@@ -4,7 +4,7 @@
         <active>true</active>
         <description>Set the values on the form as follows:
 Short description = WorkFlow testing
-and Configuration item = ESMcafe ATF CI(Don't Delete)
+and Configuration item = PowerEdge M710HD Blade Server
 and Description = Check the ovell all Workflow of Problem Management
 and Category = Request
 and Source = Event Analysis</description>
@@ -16,14 +16,14 @@ and Source = Event Analysis</description>
         <sys_created_by>Amit Kumar</sys_created_by>
         <sys_created_on>2018-04-09 11:51:56</sys_created_on>
         <sys_id>f2f79b264f9ddf0053c240f18110c7d9</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>Set Field Values</sys_name>
         <sys_package display_value="RCA Template" source="x_infte_rca_templa">443b91ff6f349300d69dc8c17c3ee407</sys_package>
         <sys_policy/>
         <sys_scope display_value="RCA Template">443b91ff6f349300d69dc8c17c3ee407</sys_scope>
         <sys_update_name>sys_atf_step_f2f79b264f9ddf0053c240f18110c7d9</sys_update_name>
         <sys_updated_by>Amit Kumar</sys_updated_by>
-        <sys_updated_on>2018-04-30 06:53:09</sys_updated_on>
+        <sys_updated_on>2018-06-12 10:35:16</sys_updated_on>
         <table>problem</table>
         <test display_value="RCA-1">3af79b264f9ddf0053c240f18110c785</test>
         <timeout/>
@@ -51,10 +51,10 @@ and Source = Event Analysis</description>
         <sys_created_by>Amit Kumar</sys_created_by>
         <sys_created_on>2018-04-09 11:51:56</sys_created_on>
         <sys_id>f2f79b264f9ddf0053c240f18110c7da</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>Amit Kumar</sys_updated_by>
-        <sys_updated_on>2018-04-09 11:51:56</sys_updated_on>
-        <value>short_description=WorkFlow testing^cmdb_ci=c0aed25f4f78530053c240f18110c752^description=Check the ovell all Workflow of Problem Management^x_infte_esm_it_pro_category=request^x_infte_esm_it_pro_source=3^EQ</value>
+        <sys_updated_on>2018-06-12 10:35:16</sys_updated_on>
+        <value>short_description=WorkFlow testing^cmdb_ci=f7d1417e4f051b0053c240f18110c777^description=Check the ovell all Workflow of Problem Management^x_infte_esm_it_pro_category=request^x_infte_esm_it_pro_source=3^EQ</value>
         <variable display_value="">b3dba2465320220002c6435723dc34f0</variable>
     </sys_variable_value>
 </record_update>

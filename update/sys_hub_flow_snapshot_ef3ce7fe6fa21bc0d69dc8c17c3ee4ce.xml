@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_flow_snapshot">
+    <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <label_cache>[{"name":"Created or Updated_1.current","label":"Trigger➛Problem Record","reference":"problem","reference_display":"Problem","type":"reference","base_type":"reference"}]</label_cache>
+        <name>RCA Action testing</name>
+        <parent_flow/>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow_snapshot</sys_class_name>
+        <sys_created_by>Manjeet_kumar</sys_created_by>
+        <sys_created_on>2018-06-11 11:17:26</sys_created_on>
+        <sys_id>ef3ce7fe6fa21bc0d69dc8c17c3ee4ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>RCA Action testing</sys_name>
+        <sys_package display_value="RCA Template" source="x_infte_rca_templa">443b91ff6f349300d69dc8c17c3ee407</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RCA Template">443b91ff6f349300d69dc8c17c3ee407</sys_scope>
+        <sys_update_name>sys_hub_flow_snapshot_ef3ce7fe6fa21bc0d69dc8c17c3ee4ce</sys_update_name>
+        <sys_updated_by>Manjeet_kumar</sys_updated_by>
+        <sys_updated_on>2018-06-11 11:17:26</sys_updated_on>
+    </sys_hub_flow_snapshot>
+</record_update>
