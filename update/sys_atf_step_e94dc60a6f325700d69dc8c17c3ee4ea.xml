@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update table="sys_atf_step">
     <sys_atf_step action="INSERT_OR_UPDATE">
-        <active>true</active>
+        <active>false</active>
         <description>Set the values on the form as follows:
 Comments = Rejecting</description>
         <display_name>Set Field Values</display_name>
@@ -12,14 +12,14 @@ Comments = Rejecting</description>
         <sys_created_by>Amit Kumar</sys_created_by>
         <sys_created_on>2018-06-21 06:43:01</sys_created_on>
         <sys_id>e94dc60a6f325700d69dc8c17c3ee4ea</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Set Field Values</sys_name>
         <sys_package display_value="RCA Template" source="x_infte_rca_templa">443b91ff6f349300d69dc8c17c3ee407</sys_package>
         <sys_policy/>
         <sys_scope display_value="RCA Template">443b91ff6f349300d69dc8c17c3ee407</sys_scope>
         <sys_update_name>sys_atf_step_e94dc60a6f325700d69dc8c17c3ee4ea</sys_update_name>
         <sys_updated_by>Amit Kumar</sys_updated_by>
-        <sys_updated_on>2018-06-21 08:38:07</sys_updated_on>
+        <sys_updated_on>2018-07-19 05:06:44</sys_updated_on>
         <table>sysapproval_approver</table>
         <test display_value="RCA-2">40d717264f9ddf0053c240f18110c78f</test>
         <timeout/>

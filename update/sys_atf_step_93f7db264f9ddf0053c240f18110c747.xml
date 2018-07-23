@@ -12,14 +12,14 @@
         <sys_created_by>Amit Kumar</sys_created_by>
         <sys_created_on>2018-04-09 11:51:58</sys_created_on>
         <sys_id>93f7db264f9ddf0053c240f18110c747</sys_id>
-        <sys_mod_count>26</sys_mod_count>
+        <sys_mod_count>27</sys_mod_count>
         <sys_name>Open an Existing Record</sys_name>
         <sys_package display_value="RCA Template" source="x_infte_rca_templa">443b91ff6f349300d69dc8c17c3ee407</sys_package>
         <sys_policy/>
         <sys_scope display_value="RCA Template">443b91ff6f349300d69dc8c17c3ee407</sys_scope>
         <sys_update_name>sys_atf_step_93f7db264f9ddf0053c240f18110c747</sys_update_name>
         <sys_updated_by>Amit Kumar</sys_updated_by>
-        <sys_updated_on>2018-06-21 08:23:36</sys_updated_on>
+        <sys_updated_on>2018-07-17 11:21:37</sys_updated_on>
         <table>x_infte_rca_templa_rca_template_table</table>
         <test display_value="RCA-1">3af79b264f9ddf0053c240f18110c785</test>
         <timeout/>

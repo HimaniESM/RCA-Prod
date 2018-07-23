@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update table="sys_atf_step">
     <sys_atf_step action="INSERT_OR_UPDATE">
-        <active>true</active>
+        <active>false</active>
         <description>Confirm that browser submits 'RCA Template Table' form to server when clicking UI Action 'Request for approval'.</description>
         <display_name>Click a UI Action</display_name>
         <inputs/>
@@ -11,14 +11,14 @@
         <sys_created_by>Amit Kumar</sys_created_by>
         <sys_created_on>2018-04-09 11:51:16</sys_created_on>
         <sys_id>0dd71b264f9ddf0053c240f18110c7c8</sys_id>
-        <sys_mod_count>8</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_name>Click a UI Action</sys_name>
         <sys_package display_value="RCA Template" source="x_infte_rca_templa">443b91ff6f349300d69dc8c17c3ee407</sys_package>
         <sys_policy/>
         <sys_scope display_value="RCA Template">443b91ff6f349300d69dc8c17c3ee407</sys_scope>
         <sys_update_name>sys_atf_step_0dd71b264f9ddf0053c240f18110c7c8</sys_update_name>
         <sys_updated_by>Amit Kumar</sys_updated_by>
-        <sys_updated_on>2018-06-21 08:38:06</sys_updated_on>
+        <sys_updated_on>2018-07-19 05:07:19</sys_updated_on>
         <table>x_infte_rca_templa_rca_template_table</table>
         <test display_value="RCA-2">40d717264f9ddf0053c240f18110c78f</test>
         <timeout/>
