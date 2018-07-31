@@ -6,6 +6,7 @@
         <label_cache>[{"name":"5c7968e8-b317-49e1-981a-ed4fa96fdd18.Table","label":"2➛Problem Table","reference":"problem","reference_display":"Problem Table"},{"name":"5c7968e8-b317-49e1-981a-ed4fa96fdd18.Record","label":"2➛Problem Record","reference":"problem","reference_display":"Problem","type":"reference","base_type":"reference"},{"name":"dab96aa4-b67d-4e30-8ff9-6fde05ed3074.Table","label":"1➛RCA Template Table Table","reference":"x_infte_rca_templa_rca_template_table","reference_display":"RCA Template Table Table"},{"name":"dab96aa4-b67d-4e30-8ff9-6fde05ed3074.Records","label":"1➛RCA Template Table Records","reference":"x_infte_rca_templa_rca_template_table","reference_display":"RCA Template Table Records"},{"name":"dab96aa4-b67d-4e30-8ff9-6fde05ed3074.Count","label":"1➛Count","reference_display":"Count"},{"name":"Updated_1.current.parent","label":"Trigger➛RCA Template Table Record➛Parent","reference":"task","reference_display":"Parent","type":"reference","base_type":"reference","parent_table_name":"x_infte_rca_templa_rca_template_table","column_name":"parent"}]</label_cache>
         <name>ESM_RCA_TemplateValid2.0</name>
         <parent_flow display_value="ESM_RCA_TemplateValid2.0">ae5514326f011b00d69dc8c17c3ee461</parent_flow>
+        <remote_trigger_id/>
         <status>published</status>
         <sys_class_name>sys_hub_flow_snapshot</sys_class_name>
         <sys_created_by>Suganya_Nagarajan</sys_created_by>

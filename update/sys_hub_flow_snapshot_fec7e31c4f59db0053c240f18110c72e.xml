@@ -6,6 +6,7 @@
         <label_cache>[{"name":"cc824199-fde7-49c5-9999-971fa5c8ddff.Record","label":"1➛Problem Record","reference":"problem","reference_display":"Problem","type":"reference","base_type":"reference"},{"name":"Created_1.current.parent","label":"Trigger➛RCA Template Table Record➛Parent","reference":"task","reference_display":"Parent","type":"reference","base_type":"reference","parent_table_name":"x_infte_rca_templa_rca_template_table","column_name":"parent"}]</label_cache>
         <name>ESM_RCA_TemplateValidation</name>
         <parent_flow display_value="ESM_RCA_TemplateValidation">056754726f011b00d69dc8c17c3ee4fb</parent_flow>
+        <remote_trigger_id/>
         <status>published</status>
         <sys_class_name>sys_hub_flow_snapshot</sys_class_name>
         <sys_created_by>Suganya_Nagarajan</sys_created_by>

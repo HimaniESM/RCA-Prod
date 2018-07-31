@@ -2,7 +2,7 @@
 <record_update table="gsw_change_log">
     <gsw_change_log action="INSERT_OR_UPDATE">
         <change_date>2018-04-11 05:32:22</change_date>
-        <changed_by display_value="Suganya_Nagarajan">1352ceaa6fb01300d69dc8c17c3ee485</changed_by>
+        <changed_by display_value="Suganya Nagarajan">b9fd23b0dba117002061d11c5e961901</changed_by>
         <content display_value="Allow Javascript tags in Embedded HTML *">980a8ba711232200964f016bcc1bddbb</content>
         <related_change_log_entry/>
         <related_task_entry/>

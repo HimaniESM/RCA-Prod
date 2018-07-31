@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="task" label="RCA Template Table" max_length="40" name="x_infte_rca_templa_rca_template_table" sizeclass="98" type="collection">
+    <element extends="task" label="RCA Template Table" max_length="40" name="x_infte_rca_templa_rca_template_table" sizeclass="34" type="collection">
         <element label="Action Taken" max_length="100" name="action_taken" type="string"/>
         <element label="Analysis" max_length="100" name="analysis" type="string"/>
         <element label="Analysis Completed By" max_length="32" name="analysis_completed_by" reference="sys_user" type="reference"/>

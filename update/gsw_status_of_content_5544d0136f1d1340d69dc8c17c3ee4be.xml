@@ -3,12 +3,12 @@
     <gsw_status_of_content action="INSERT_OR_UPDATE">
         <best_practice_allowed_ever>0</best_practice_allowed_ever>
         <checksum/>
-        <content display_value="Performance Monitoring IP Restriction">6122d72b11232200964f016bcc1bdda3</content>
+        <content display_value="">6122d72b11232200964f016bcc1bdda3</content>
         <effective_weight>1</effective_weight>
         <more_info_visited>false</more_info_visited>
         <previous_status>0</previous_status>
         <progress>0</progress>
-        <related_log_entry display_value="2018-06-21 05:30:36">81ec170a6ff25700d69dc8c17c3ee48c</related_log_entry>
+        <related_log_entry display_value="">81ec170a6ff25700d69dc8c17c3ee48c</related_log_entry>
         <status>1</status>
         <sys_class_name>gsw_status_of_content</sys_class_name>
         <sys_created_by>Suganya_Nagarajan</sys_created_by>

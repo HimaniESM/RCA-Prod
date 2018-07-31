@@ -54,15 +54,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>Suganya_Nagarajan</sys_created_by>
         <sys_created_on>2018-03-19 15:59:15</sys_created_on>
-        <sys_id>ab17400c6f0d9300d69dc8c17c3ee4ef</sys_id>
+        <sys_id>dfeaeb18db6bd3402061d11c5e961932</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Action Taken</sys_name>
         <sys_package display_value="RCA Template" source="x_infte_rca_templa">443b91ff6f349300d69dc8c17c3ee407</sys_package>
         <sys_policy/>
         <sys_scope display_value="RCA Template">443b91ff6f349300d69dc8c17c3ee407</sys_scope>
         <sys_update_name>sys_dictionary_x_infte_rca_templa_rca_template_table_action_taken</sys_update_name>
-        <sys_updated_by>Suganya_Nagarajan</sys_updated_by>
-        <sys_updated_on>2018-03-19 15:59:15</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-07-23 09:49:41</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

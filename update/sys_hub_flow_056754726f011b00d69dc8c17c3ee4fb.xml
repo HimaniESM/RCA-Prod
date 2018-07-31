@@ -6,6 +6,7 @@
         <label_cache>[{"name":"Created_1.current.parent.sys_id","label":"Trigger➛RCA Template Table Record➛Parent➛Sys ID","reference":"","reference_display":"Sys ID","type":"GUID","base_type":"GUID","parent_table_name":"task","column_name":"sys_id"},{"name":"cc824199-fde7-49c5-9999-971fa5c8ddff.Record","label":"1➛Problem Record","reference":"problem","reference_display":"Problem","type":"reference","base_type":"reference"},{"name":"Created_1.current.parent","label":"Trigger➛RCA Template Table Record➛Parent","reference":"task","reference_display":"Parent","type":"reference","base_type":"reference","parent_table_name":"x_infte_rca_templa_rca_template_table","column_name":"parent"}]</label_cache>
         <latest_snapshot display_value="ESM_RCA_TemplateValidation">bdd686ed4fe5574053c240f18110c757</latest_snapshot>
         <name>ESM_RCA_TemplateValidation</name>
+        <remote_trigger_id/>
         <show_draft_actions>false</show_draft_actions>
         <status>published</status>
         <sys_class_name>sys_hub_flow</sys_class_name>
